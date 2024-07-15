@@ -1,0 +1,6 @@
+bot:
+  token: "6619515237:AAEvRdRfEIZg2I1EFAGiKvf3fB0A5tYcRsw"
+
+db:
+  dsn: "postgresql+psycopg://postgres:password@127.0.0.1/postgres"
+  is_echo: "yes"
